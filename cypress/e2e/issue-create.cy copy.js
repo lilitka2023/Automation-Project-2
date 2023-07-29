@@ -70,4 +70,3 @@ describe('Issue create', () => {
     });
   });
 });
-});
